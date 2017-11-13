@@ -7,7 +7,7 @@ package bisiesto;
 import java.util.Scanner;
 /**
  * para encontrar el doc, tenemos que ir a la carpeta del proyecto/ dis/ doc/ y abrir el archivo index
- * @author ik_1dw3
+ * @author Yo mismo
  * @version 1.0 07/11/2017
  */
 /*
